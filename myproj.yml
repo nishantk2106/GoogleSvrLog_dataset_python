@@ -1,0 +1,53 @@
+name: myproj
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2020.6.24=0
+  - certifi=2018.8.24=py35_1
+  - libedit=3.1.20191231=h7b6447c_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - nodejs=10.13.0=he6710b0_0
+  - openssl=1.0.2u=h7b6447c_0
+  - pip=10.0.1=py35_0
+  - python=3.5.6=hc3d631a_0
+  - readline=7.0=h7b6447c_5
+  - setuptools=40.2.0=py35_0
+  - sqlite=3.32.3=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.31.1=py35_0
+  - xz=5.2.5=h7b6447c_0
+  - yarn=1.22.4=0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - backcall==0.2.0
+    - decorator==4.4.2
+    - ipykernel==5.3.1
+    - ipython==7.9.0
+    - ipython-genutils==0.2.0
+    - jedi==0.17.1
+    - jupyter-client==6.1.5
+    - jupyter-core==4.6.3
+    - numpy==1.18.5
+    - pandas==0.25.3
+    - parso==0.7.0
+    - pexpect==4.8.0
+    - pickleshare==0.7.5
+    - prompt-toolkit==2.0.10
+    - ptyprocess==0.6.0
+    - py4j==0.10.7
+    - pygments==2.6.1
+    - pyspark==2.4.5
+    - python-dateutil==2.8.1
+    - pytz==2020.1
+    - pyzmq==19.0.1
+    - six==1.15.0
+    - tornado==6.0.4
+    - traitlets==4.3.3
+    - wcwidth==0.2.5
+prefix: /ichec/home/users/nishantk2106/.conda/envs/myproj
+
